@@ -1,14 +1,14 @@
-<h1><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Bem Vindo</a></br></h1>
+ # Hey there! 🤙
+ 
+ I'm a Developer that love learning new things. Constantly looking for innovative ways to create better solutions.      
+ 
+Studying software engineering 🤘. 
 
-<div style="display: flex" align="center">
-  <a href="https://github.com/ArthurDMello">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurDMello&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: flex"><br>
-  <img align="center" alt="Miguel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Miguel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Miguel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Miguel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Miguel-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Miguel-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,react,js,python,vscode)](https://skillicons.dev)
+
+<hr>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurDMello&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurDMello&show_icons=true&theme=radical)
