@@ -4,7 +4,7 @@
  
 Studying software engineering 🤘. 
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,react,js,python,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,react,js,bootstrap,python,vscode)](https://skillicons.dev)
 
 <hr>
 
